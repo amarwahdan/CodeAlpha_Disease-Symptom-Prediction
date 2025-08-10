@@ -1,5 +1,3 @@
-# **CodeAlpha_Disease-Symptom-Prediction**
-
 # Disease Symptom Prediction
 
 **Introduction**
